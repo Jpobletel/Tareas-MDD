@@ -270,3 +270,4 @@ def les_miserables_graph(directed=False):
     G.add_edge("MmeHucheloup", "Gavroche", weight=1)
     G.add_edge("MmeHucheloup", "Enjolras", weight=1)
     return G
+
